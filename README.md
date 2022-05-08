@@ -2,4 +2,4 @@
 
 [Book](https://doc.rust-lang.org/book/)
 
-https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html
+https://doc.rust-lang.org/book/ch05-00-structs.html
